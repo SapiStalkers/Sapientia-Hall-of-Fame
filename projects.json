@@ -1,0 +1,145 @@
+[
+  {
+    "name": "bnuuy.link",
+    "creator": ["https://github.com/jozsefsallai"],
+    "creatorDisplay": ["Sallai József"],
+    "github": "https://github.com/jozsefsallai/bnuuy.link",
+    "githubDisplay": "bnuuy.link",
+    "website": "https://bnuuy.link",
+    "websiteDisplay": "https://bnuuy.link",
+    "description": "Link shortener running on the edge, leveraging Vercel KV."
+  },
+  {
+    "name": "WebMongo",
+    "creator": ["https://github.com/jozsefsallai"],
+    "creatorDisplay": ["Sallai József"],
+    "github": "https://github.com/jozsefsallai/webmongo",
+    "githubDisplay": "webmongo",
+    "website": "https://webmongo.vercel.app",
+    "websiteDisplay": "Vercel",
+    "description": "Fast and secure web UI for managing MongoDB servers."
+  },
+  {
+    "name": "FastBin Rewritten",
+    "creator": ["https://github.com/jozsefsallai"],
+    "creatorDisplay": ["Sallai József"],
+    "github": "https://github.com/jozsefsallai/fastbin-rewritten",
+    "githubDisplay": "fastbin-rewritten",
+    "website": "https://fastbin.xyz/",
+    "websiteDisplay": "Self-Hosted",
+    "description": "A modern self-hosted pastebin service - now serverless!"
+  },
+  {
+    "name": "Insomnia Documenter",
+    "creator": ["https://github.com/jozsefsallai"],
+    "creatorDisplay": ["Sallai József"],
+    "github": "https://github.com/insodoc/insomnia-documenter",
+    "githubDisplay": "insomnia-documenter",
+    "website": null,
+    "websiteDisplay": null,
+    "description": "Tool to create minimalist and beautiful API documentation pages using your Insomnia workspace export file."
+  },
+  {
+    "name": "Rozsda",
+    "creator": ["https://github.com/jozsefsallai"],
+    "creatorDisplay": ["Sallai József"],
+    "github": "https://github.com/jozsefsallai/rozsda",
+    "githubDisplay": "rozsda",
+    "website": null,
+    "websiteDisplay": null,
+    "description": "Rust programming, in Hungarian."
+  },
+  {
+    "name": "FlashPatch",
+    "creator": ["https://github.com/darktohka"],
+    "creatorDisplay": ["Derzsi Dániel"],
+    "github": "https://github.com/darktohka/FlashPatch",
+    "githubDisplay": "FlashPatch",
+    "website": null,
+    "websiteDisplay": null,
+    "description": "FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021."
+  },
+  {
+    "name": "Clean Flash Player",
+    "creator": ["https://github.com/darktohka"],
+    "creatorDisplay": ["Derzsi Dániel"],
+    "github": "https://github.com/darktohka/clean-flash-builds",
+    "githubDisplay": "clean-flash-builds",
+    "website": null,
+    "websiteDisplay": null,
+    "description": "Repository of clean Flash Player builds."
+  },
+  {
+    "name": "Sapi 8bitCPU Simulator",
+    "creator": [
+      "https://github.com/szhabolcs",
+      "https://github.com/memergamer"
+    ],
+    "creatorDisplay": ["Nagy Szabolcs", "Kovács Bálint-Hunor"],
+    "github": "https://github.com/szhabolcs/sapi-8bitCPU-simulator",
+    "githubDisplay": "sapi-8bitCPU-simulator",
+    "website": "https://sapi-cpu.netlify.app/",
+    "websiteDisplay": "Netlify",
+    "description": "A JS implementation of the Logisim 8-bit CPU, and the reference assembler."
+  },
+  {
+    "name": "QuizMIT",
+    "creator": ["https://github.com/Csalex01"],
+    "creatorDisplay": ["Csillag Alex"],
+    "github": "https://github.com/Csalex01/QuizMIT",
+    "githubDisplay": "QuizMIT",
+    "website": null,
+    "websiteDisplay": null,
+    "description": "A Discord bot that allows you to play a quiz about space with your friends. This project was developed for the November Hall of Fame event organized by the Sapientia University, Faculty of Informatics."
+  },
+  {
+    "name": "cspp.csalex.org",
+    "creator": ["https://github.com/Csalex01"],
+    "creatorDisplay": ["Csillag Alex"],
+    "github": "https://github.com/Csalex01/cspp.csalex.org",
+    "githubDisplay": "cspp.csalex.org",
+    "website": "https://cspp.csalex.org/",
+    "websiteDisplay": "Self-Hosted",
+    "description": "A website to help high school students learn the basics of programming."
+  },
+  {
+    "name": "Attendance Manager",
+    "creator": [
+      "https://github.com/Csalex01",
+      "https://github.com/Levente15",
+      "https://github.com/Tibor007",
+      "https://github.com/Simonhunor5"
+    ],
+    "creatorDisplay": [
+      "Csillag Alex",
+      "Csata László-Levente",
+      "Bartha Tibor",
+      "Simon Hunor"
+    ],
+    "github": "https://github.com/Csalex01/AttendanceManager",
+    "githubDisplay": "cspp.csalex.org",
+    "website": null,
+    "websiteDisplay": null,
+    "description": "An easy attendance tracker website using QR codes."
+  },
+  {
+    "name": "Vacation Manager",
+    "creator": ["https://github.com/Csalex01"],
+    "creatorDisplay": ["Csillag Alex"],
+    "github": "https://github.com/Csalex01/VacationManager",
+    "githubDisplay": "VacationManager",
+    "website": null,
+    "websiteDisplay": null,
+    "description": "A web application solely for the purpose of managing user's or employee's leave time. You can edit, accept or deny their leave requests."
+  },
+  {
+    "name": "Slant",
+    "creator": ["https://github.com/voidlord"],
+    "creatorDisplay": ["Kovács Lehel-Levente"],
+    "github": "https://github.com/voidlord/Slant",
+    "githubDisplay": "Slant",
+    "website": null,
+    "websiteDisplay": null,
+    "description": "A 3D game made using Unity Engine, inspired by Slope3D."
+  }
+]
